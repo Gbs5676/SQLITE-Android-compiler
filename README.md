@@ -50,3 +50,5 @@
 | Tela principal | Visualização de tabela | Execução SQL |
 |----------------|------------------------|--------------|
 | <img src="img/img1.png" width="250" alt="Tela principal"> | <img src="img/img2.png" width="250" alt="Visualização de tabela"> | <img src="img/img3.png" width="250" alt="Execução SQL"> |
+
+para consultar o código fonte, verifique o arquivo zip neste repositório
