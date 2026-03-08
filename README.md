@@ -18,7 +18,7 @@
 ## 📲 Instalação
 
 ### Via APK (recomendado)
-1. Baixe a última versão do APK na seção
+1. Baixe a última versão do APK no arquivo apk do repositório.
 2. No seu dispositivo Android, permita a instalação de fontes desconhecidas (vá em Configurações > Segurança > Instalar apps desconhecidos e habilite para o navegador ou gerenciador de arquivos).
 3. Abra o arquivo APK baixado e confirme a instalação.
 
